@@ -1,4 +1,4 @@
-# domain-expiration
+# Get Domain Expiration Date
 
 Application to get the expiration date of any domain name (if publicly available) using only the socket library in Python.
 
